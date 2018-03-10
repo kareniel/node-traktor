@@ -1,0 +1,31 @@
+{
+  "name": "node-traktor",
+  "version": "0.1.0",
+  "description": "scripts for working with traktor files",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kareniel/node-traktor.git"
+  },
+  "keywords": [
+    "traktor"
+  ],
+  "author": "kareniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kareniel/node-traktor/issues"
+  },
+  "homepage": "https://github.com/kareniel/node-traktor#readme",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  },
+  "dependencies": {
+    "elementtree": "^0.1.7"
+  }
+}

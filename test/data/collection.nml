@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="19">
+  <HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+
+  <MUSICFOLDERS></MUSICFOLDERS>
+
+  <COLLECTION ENTRIES="873">
+
+    <ENTRY MODIFIED_DATE="2017/12/27" MODIFIED_TIME="18672" TITLE="Rohaan - Basketball Court">
+      <LOCATION DIR="/:Users/:kareniel/:Music/:iTunes/:iTunes Media/:Music/:Unknown Artist/:Unknown Album/:" FILE="Rohaan - Basketball Court.wav" VOLUME="Macintosh HD" VOLUMEID="Macintosh HD"/>
+      <MODIFICATION_INFO AUTHOR_TYPE="user"/>
+      <INFO IMPORT_DATE="2017/12/27" FLAGS="8" FILESIZE="26676"/>
+    </ENTRY>
+
+    <ENTRY 
+      MODIFIED_DATE="2017/12/13" 
+      MODIFIED_TIME="443" 
+      LOCK="1" 
+      LOCK_MODIFICATION_TIME="2017-07-28T00:30:27"
+      AUDIO_ID="AMARERERERERERERERERERERERA..." 
+      TITLE="Dubstep 1" 
+      ARTIST="Loopmasters">
+      <LOCATION 
+        DIR="/:Users/:kareniel/:Music/:iTunes/:iTunes Media/:Music/:Unknown Artist/:Unknown Album/:" 
+        FILE="Rohaan - Basketball Court.wav" 
+        VOLUME="Macintosh HD" 
+        VOLUMEID="Macintosh HD"/>
+      <MODIFICATION_INFO AUTHOR_TYPE="user"/>
+      <INFO 
+        BITRATE="189720" 
+        GENRE="" 
+        COMMENT="" 
+        COVERARTID="113/R1PI3ZDLWQMLAAASJ4B2AQZXI1ZD" 
+        PLAYTIME="193" 
+        PLAYTIME_FLOAT="192.078" 
+        RELEASE_DATE="2010/1/1" 
+        IMPORT_DATE="2017/12/27" 
+        FLAGS="8" 
+        FILESIZE="26676"/>
+      <TEMPO 
+        BPM="140" 
+        BPM_QUALITY="100">
+      </TEMPO>
+      <LOUDNESS 
+        PEAK_DB="-2.78208" 
+        PERCEIVED_DB="0" 
+        ANALYZED_DB="-2">
+      </LOUDNESS>
+      <MUSICAL_KEY VALUE="12"></MUSICAL_KEY>
+      <CUE_V2 
+        NAME="AutoGrid" 
+        DISPL_ORDER="0" 
+        TYPE="4" 
+        START="52.3159" 
+        LEN="0" 
+        REPEATS="-1" 
+        HOTCUE="0">
+      </CUE_V2>
+    </ENTRY>
+  </COLLECTION>
+
+  <SETS></SETS>
+
+  <PLAYLISTS>
+
+    <NODE TYPE="FOLDER" NAME="$ROOT">
+
+      <SUBNODES COUNT="1">
+
+        <NODE TYPE="PLAYLIST" NAME="playlist_2">
+          <PLAYLIST ENTRIES="32" TYPE="LIST" UUID="15408f670ef44842ae669819141ad170">
+            <ENTRY>
+              <PRIMARYKEY 
+                TYPE="TRACK" 
+                KEY="Macintosh HD/:Users/:kareniel/:Vibedrive/:Inbox/:Rohaan - Basketball Court.wav"/>
+            </ENTRY>
+          </PLAYLIST>
+        </NODE>
+
+      </SUBNODES>
+
+    </NODE>
+
+  </PLAYLISTS>
+
+  <SORTING_ORDER PATH="$COLLECTION">
+    <SORTING_DATA IDX="27" ORD="0"/>
+  </SORTING_ORDER>
+
+  <SORTING_ORDER PATH="This Raw Self Week 1">
+    <SORTING_DATA IDX="5" ORD="0"/>
+  </SORTING_ORDER>
+
+  <SORTING_ORDER PATH="petitemachine1"/>
+</NML>
