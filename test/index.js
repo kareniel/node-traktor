@@ -6,7 +6,7 @@ tape('load a collection file', function (t) {
   var collection = new traktor.Collection()
   var filepath = path.join(__dirname, '/data/empty-collection.nml')
 
-  collection.load(filepath).then(tree => {
+  collection.load(filepath).then(() => {
     t.pass()
     t.end()
   })
@@ -16,7 +16,8 @@ tape('load a collection file', function (t) {
 tape('generate an nml collection from json', function (t) {
   var collection = new traktor.Collection()
 
-  collection.load({}).then(tree => {
+  collection.load({}).then(() => {
+    console.log(collection.toXML())
     t.pass()
     t.end()
   })
