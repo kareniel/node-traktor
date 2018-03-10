@@ -1,5 +1,4 @@
-var Collection = require('./lib/Collection')
-
 module.exports = {
-  Collection
+  locate: require('./lib/locate'),
+  Collection: require('./lib/Collection')
 }
