@@ -9,6 +9,7 @@ scripts for working with traktor files
 ### traktor.locate(cb)
 
 calls back node-style with the path to a traktor root folder
+also usable on the command line (`node node-traktor/lib/locate`)
 
 ### traktor.Collection
 

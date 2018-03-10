@@ -26,6 +26,7 @@
     "tape": "^4.9.0"
   },
   "dependencies": {
-    "elementtree": "^0.1.7"
+    "elementtree": "^0.1.7",
+    "glob": "^7.1.2"
   }
 }
