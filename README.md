@@ -2,7 +2,7 @@
 
 [![stability - experimental][experimental-img]][stability-url]
 
-scripts for working with traktor files
+scripts for working with traktor files. you can find my notes about Traktor [here](https://github.com/vibedrive/vibedrive/wiki/Traktor).
 
 ## api
 
