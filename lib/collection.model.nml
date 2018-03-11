@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<NML VERSION="19">
+  <HEAD COMPANY="www.native-instruments.com" PROGRAM="Traktor"></HEAD>
+
+  <MUSICFOLDERS></MUSICFOLDERS>
+
+  <COLLECTION ENTRIES="0"></COLLECTION>
+
+  <SETS></SETS>
+
+  <PLAYLISTS>
+
+    <NODE TYPE="FOLDER" NAME="$ROOT">
+      <SUBNODES COUNT="0"></SUBNODES>
+    </NODE>
+
+  </PLAYLISTS>
+
+  <SORTING_ORDER PATH="$COLLECTION">
+    <SORTING_DATA IDX="0" ORD="0"/>
+  </SORTING_ORDER>
+</NML>

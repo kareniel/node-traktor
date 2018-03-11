@@ -1,8 +1,11 @@
 {
   "name": "node-traktor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "scripts for working with traktor files",
   "main": "index.js",
+  "bin": {
+    "traktor": "bin.js"
+  },
   "directories": {
     "lib": "lib"
   },

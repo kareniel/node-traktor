@@ -10,21 +10,21 @@ scripts for working with traktor files
 
 calls back node-style with the path to a traktor root folder. 
 
-also usable on the command line (`node node-traktor/lib/locate`)
+also usable on the command line (`traktor locate`)
 
 ### traktor.Collection
 
-##### `collection.load(source)`
+##### `collection.load(source)` -> this
 source can be 
   - a filepath that points to a collection.nml
   - an object that represents a collection file
 
-returns a promise that resolves when collection has been loaded
+returns a promise that resolves with the collection when it has been loaded
 
-##### `collection.entries()`
+##### `collection.entries()` -> Array<Entry>
 returns a list of entry items that represent music files
 
-##### `collection.toXML()`
+##### `collection.toXML()` -> xml_string
 returns an xml string representation of the current tree 
 
 
